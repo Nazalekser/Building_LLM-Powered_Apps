@@ -1,0 +1,31 @@
+{
+  "os": "Linux-6.8.0-1027-azure-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.1",
+  "startedAt": "2025-06-29T12:03:50.421534Z",
+  "program": "/workspaces/Building_LLM-Powered_Apps/01. Using_APIs.ipynb",
+  "codePath": "01. Using_APIs.ipynb",
+  "git": {
+    "remote": "https://github.com/Nazalekser/Building_LLM-Powered_Apps",
+    "commit": "44f509d1b1ca2eb1a92bb3837bcc29650ab40fcd"
+  },
+  "email": "nazalint@gmail.com",
+  "root": "/workspaces/Building_LLM-Powered_Apps",
+  "host": "codespaces-5790fd",
+  "executable": "/home/codespace/.python/current/bin/python",
+  "codePathLocal": "01. Using_APIs.ipynb",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "disk": {
+    "/": {
+      "total": "33636024320",
+      "used": "14486687744"
+    }
+  },
+  "memory": {
+    "total": "8323264512"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  }
+}
